@@ -1,0 +1,23 @@
+.App {
+  
+  text-align: center;
+  height: 100%;
+  
+}
+
+.nav {
+
+  text-align: left;
+  position: relative;
+
+}
+
+.NavTitle {
+
+  display: inline-block;
+  position: relative;
+  left: 2%;
+  font-size: 350%;
+  color: #00b500;
+
+}
