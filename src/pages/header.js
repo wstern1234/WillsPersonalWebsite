@@ -44,9 +44,9 @@ const Header = (props) => {
           <Link to="/resume">
             <MenuItem _hover={{color: "#DCDCDC", bgColor: '#009EDB'}}>Resume</MenuItem>
           </Link>
-          <Link to="/photos">
+          {/* <Link to="/photos">
             <MenuItem _hover={{color: "#DCDCDC", bgColor: '#009EDB'}}>Photos</MenuItem>
-          </Link>
+          </Link> */}
         </MenuList>
       </Menu>
 
@@ -67,9 +67,9 @@ const Header = (props) => {
         <Link to="/resume">
           <Button variant="ghost" _hover={{color: "#DCDCDC"}}>Resume</Button>
         </Link>
-        <Link to="/photos">
+        {/* <Link to="/photos">
           <Button variant="ghost" _hover={{color: "#DCDCDC"}}>Photos</Button>
-        </Link>
+        </Link> */}
       
       </Box>
     </Flex>
