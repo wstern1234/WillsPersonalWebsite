@@ -43,10 +43,10 @@ const Home = (props) => {
           fontSize = 'xl'
           fontFamily = 'monospace'
           margin = '-40px'>
-            Hello! My name is Wills Stern. I'm a junior at San Ramon Valley High School and working 
+            Hello, my name is Wills Stern. I'm a rising Senior at San Ramon Valley High School and working 
             on my Associate Degree in Computer Science from Diablo Valley College. Currently, I'm on 
-            track to receive both by Spring 2022. My interests include AI Assistants, aerospace engineering, 
-            nuclear/particle physics and learning new technologies.
+            track to receive both by Spring 2022. My interests include aerospace engineering, computer science, 
+            nuclear/particle physics, general relativity, new modes of transport, and learning new technologies.
           </Text>
         </Box>
 
