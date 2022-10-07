@@ -1,7 +1,7 @@
 import React from 'react';
 import NavBar from '../header';
 import './home.css';
-import Me11thGrade from './Me11thGrade.jpg';
+import WillsMainPhoto2 from './WillsMainPhoto2.png';
 import { Box, Heading, Text, Image } from '@chakra-ui/react';
 
 const Home = (props) => {
@@ -31,7 +31,7 @@ const Home = (props) => {
           right = '40%'
           fontFamily = 'monospace'
           top = '0px'>
-            Welcome
+            Welcome!
           </Heading>
 
 
@@ -43,10 +43,10 @@ const Home = (props) => {
           fontSize = 'xl'
           fontFamily = 'monospace'
           margin = '-40px'>
-            Hello, my name is Wills Stern. I'm a rising Senior at San Ramon Valley High School and working 
-            on my Associate Degree in Computer Science from Diablo Valley College. Currently, I'm on 
-            track to receive both by Spring 2022. My interests include aerospace engineering, computer science, 
-            nuclear/particle physics, general relativity, new modes of transport, and learning new technologies.
+            Hey! My name is William Stern. I'm a freshman at UC Berkeley and am double majoring in Computer Science 
+            and Applied Mathematics. This is my personal website that I made using ReactJS, which I've been maintaining 
+            since January 2021. Other than that, I have my current resume (as of October 6th, 2022) on the "Resume" 
+            tab if you feel like checking that out, or you can contact me via the "Contacts" tab.
           </Text>
         </Box>
 
@@ -62,7 +62,7 @@ const Home = (props) => {
           borderRadius = "full"
           position = 'relative'
           width = '250px'
-          src = {Me11thGrade}
+          src = {WillsMainPhoto2}
           top = '70px'
           alt = "Wills Stern"
         />

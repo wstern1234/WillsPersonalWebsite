@@ -43,7 +43,7 @@ const contacts = () => {
         </a>
 
 
-        <a href = 'mailto:wills.stern234@gmail.com' action = 'mailto:wills.stern234@gmail.com'>
+        <a href = 'mailto:willsstern@gmail.com' action = 'mailto:willsstern@gmail.com'>
           <Button colorScheme="black" variant = 'outline' leftIcon={<HiOutlineMail />} width = '60%'>
             Email
           </Button>
