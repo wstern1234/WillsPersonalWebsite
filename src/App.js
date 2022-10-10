@@ -4,7 +4,7 @@ import Home from './pages/home/home';
 import Contacts from './pages/contacts/contacts';
 import Resume from './pages/resume/resume';
 import Photos from './pages/photos/photos';
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter as Router, Switch, Route } from "react-router-dom";
 
 
 class App extends React.Component {
