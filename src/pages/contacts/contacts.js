@@ -29,7 +29,7 @@ const contacts = () => {
       <SimpleGrid position = 'relative' top = '40px' spacing = '40px'>
 
           
-        <a href = 'https://www.linkedin.com/in/wills-stern-5a2a621b1/' rel="noreferrer" target = '_blank' action = 'https://www.linkedin.com/in/wills-stern-5a2a621b1/'>
+        <a href = 'https://www.linkedin.com/in/wills-stern/' rel="noreferrer" target = '_blank' action = 'https://www.linkedin.com/in/wills-stern-5a2a621b1/'>
           <Button colorScheme="linkedin" variant = 'outline' leftIcon={<FaLinkedin />} width = '60%'>
             Linkedin
           </Button>
