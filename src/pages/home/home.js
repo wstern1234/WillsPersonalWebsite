@@ -22,13 +22,13 @@ const Home = (props) => {
         display={ "inline-block" }
         width={{ sm: "full", md: "auto" }}
         alignItems="center"
-        maxWidth = '750px'
+        maxWidth = '790px'
         margin = '100px'>
 
           <Heading
           size = 'xl'
           position = 'relative'
-          right = '40%'
+          right = '45.5%'
           fontFamily = 'monospace'
           top = '0px'>
             Welcome!
@@ -42,10 +42,11 @@ const Home = (props) => {
           className = 'introText'
           fontSize = 'xl'
           fontFamily = 'monospace'
-          margin = '-40px'>
-            Hey! My name is William Stern. I'm a freshman at UC Berkeley and am double majoring in Data Science, with an 
-            emphasis in Business and Industrial Analytics, and Applied Mathematics, with an emphasis in Computer Science. 
-            {"\n"}
+          margin = '-50px'>
+            Hey! My name is William Stern. I'm a freshman at UC Berkeley and am double majoring in Data Science (emphasis 
+            in Business and Industrial Analytics) and Applied Mathematics (emphasis in Computer Science).
+            <br />
+            <br />
             This is my personal website that I made using ReactJS, which I've been maintaining since January 2021. Other 
             than that, I have my current resume (as of January 9th, 2023) on the "Resume" tab if you feel like checking 
             that out, or you can contact me via the "Contacts" tab.
