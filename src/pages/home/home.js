@@ -43,10 +43,11 @@ const Home = (props) => {
           fontSize = 'xl'
           fontFamily = 'monospace'
           margin = '-40px'>
-            Hey! My name is William Stern. I'm a freshman at UC Berkeley and am double majoring in Computer Science 
-            and Applied Mathematics. This is my personal website that I made using ReactJS, which I've been maintaining 
-            since January 2021. Other than that, I have my current resume (as of January 9th, 2023) on the "Resume" 
-            tab if you feel like checking that out, or you can contact me via the "Contacts" tab.
+            Hey! My name is William Stern. I'm a freshman at UC Berkeley and am double majoring in Data Science, with an 
+            emphasis in Business and Industrial Analytics, and Applied Mathematics, with an emphasis in Computer Science. 
+            This is my personal website that I made using ReactJS, which I've been maintaining since January 2021. Other 
+            than that, I have my current resume (as of January 9th, 2023) on the "Resume" tab if you feel like checking 
+            that out, or you can contact me via the "Contacts" tab.
           </Text>
         </Box>
 
