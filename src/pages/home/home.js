@@ -22,7 +22,7 @@ const Home = (props) => {
         display={ "inline-block" }
         width={{ sm: "full", md: "auto" }}
         alignItems="center"
-        maxWidth = '790px'
+        maxWidth = '839px'
         margin = '100px'>
 
           <Heading
@@ -37,6 +37,8 @@ const Home = (props) => {
 
           <br />
           <br />
+          <br />
+          <br />
 
           <Text
           className = 'introText'
@@ -45,6 +47,7 @@ const Home = (props) => {
           margin = '-49px'>
             My name is William "Wills" Stern. I'm a double-major junior at UC Berkeley and am studying 
             Computer Science/Applied Mathematics and Business/Data Science.
+            <br />
             <br />
             <br />
             If you're wondering, I programmed this site using ReactJS and I've been maintaining it since 
