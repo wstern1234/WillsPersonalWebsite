@@ -28,10 +28,10 @@ const Home = (props) => {
           <Heading
           size = 'xl'
           position = 'relative'
-          right = '45.5%'
+          right = '47%'
           fontFamily = 'monospace'
           top = '0px'>
-            Welcome!
+            Hello!
           </Heading>
 
 
@@ -42,14 +42,17 @@ const Home = (props) => {
           className = 'introText'
           fontSize = 'xl'
           fontFamily = 'monospace'
-          margin = '-50px'>
-            Hey! My name is William Stern. I'm a freshman at UC Berkeley and am double majoring in Data Science (emphasis 
-            in Business and Industrial Analytics) and Applied Mathematics (emphasis in Computer Science).
+          margin = '-49px'>
+            My name is William "Wills" Stern. I'm a double-major junior at UC Berkeley and am studying 
+            Computer Science/Applied Mathematics and Business/Data Science.
             <br />
             <br />
-            This is my personal website that I made using ReactJS, which I've been maintaining since January 2021. Other 
-            than that, I have my current resume (as of January 9th, 2023) on the "Resume" tab if you feel like checking 
-            that out, or you can contact me via the "Contacts" tab.
+            If you're wondering, I programmed this site using ReactJS and I've been maintaining it since 
+            January 2021. Other than that, I have my current 
+            <a href="https://wills-stern.com/#/resume"><span style={{ color: '#009EDB'}}> <u>resume</u> </span></a> 
+            available and you can 
+            <a href="https://wills-stern.com/#/contacts"><span style={{ color: '#009EDB'}}> <u>reach out</u> </span></a> 
+            to me through Linkedin, Twitter, or email.
           </Text>
         </Box>
 
