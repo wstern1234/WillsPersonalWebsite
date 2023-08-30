@@ -9,7 +9,7 @@ const DocIframe = () => {
         src={Myresume}
         title="file"
         width="100%"
-        height="600"
+        height="100%"
       ></iframe>
     </div>
   );
