@@ -45,8 +45,8 @@ const Home = (props) => {
           fontSize = 'xl'
           fontFamily = 'monospace'
           margin = '-49px'>
-            My name is William "Wills" Stern. I'm a student at UC Berkeley and am double majoring in
-            Computer Science and Data Science (with an emphasis in Business).
+            My name is William 'Wills' Stern. I'm a student at UC Berkeley, double majoring in
+            Computer Science and Data Science with an emphasis in Business.
             <br />
             <br />
             <br />
