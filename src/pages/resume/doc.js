@@ -1,5 +1,5 @@
 import React from "react";
-import Myresume from "./William_Stern_Resume_Aug30.pdf";
+import Myresume from "./WilliamSternNov14.pdf";
 
 const DocIframe = () => {
 
