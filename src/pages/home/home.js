@@ -45,12 +45,12 @@ const Home = (props) => {
           fontSize = 'xl'
           fontFamily = 'monospace'
           margin = '-49px'>
-            My name is William "Wills" Stern. I'm a double-major junior at UC Berkeley and am studying 
-            Computer Science/Applied Mathematics and Business/Data Science.
+            My name is William "Wills" Stern. I'm a student at UC Berkeley and am double majoring in
+            Computer Science and Data Science (with an emphasis in Business).
             <br />
             <br />
             <br />
-            If you're wondering, I programmed this site using ReactJS and I've been maintaining it since 
+            I programmed this site using ReactJS and I've been maintaining it since 
             January 2021. Other than that, I have my current 
             <a href="https://wills-stern.com/#/resume"><span style={{ color: '#009EDB'}}> <u>resume</u> </span></a> 
             available and you can 
