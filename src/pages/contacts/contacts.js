@@ -30,7 +30,7 @@ const contacts = () => {
             Linkedin
           </Button>
         </a>
-
+        
 
         <a href = 'mailto:willsstern@gmail.com' action = 'mailto:willsstern@gmail.com'>
           <Button colorScheme="black" variant = 'outline' leftIcon={<HiOutlineMail />} width = '60%'>
