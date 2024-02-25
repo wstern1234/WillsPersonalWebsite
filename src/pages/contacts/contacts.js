@@ -36,13 +36,6 @@ const contacts = () => {
         </a>
 
 
-        <a href = 'https://twitter.com/wstern231' rel="noreferrer" target = '_blank' action = 'https://twitter.com/wstern231'>
-          <Button colorScheme="twitter" variant = 'outline' leftIcon={<FaTwitter />} width = '60%'>
-            Twitter
-          </Button>
-        </a>
-
-
         <a href = 'mailto:willsstern@gmail.com' action = 'mailto:willsstern@gmail.com'>
           <Button colorScheme="black" variant = 'outline' leftIcon={<HiOutlineMail />} width = '60%'>
             Email
