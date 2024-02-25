@@ -22,10 +22,6 @@ const contacts = () => {
 
       <br />
 
-      <Text fontSize = 'lg' fontFamily = 'monospace'>Below, you can contact me via Linkedin or my email.</Text>
-
-      <br />
-
       <SimpleGrid position = 'relative' top = '40px' spacing = '40px'>
 
           
