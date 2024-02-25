@@ -1,6 +1,6 @@
 import React from 'react';
 import NavBar from '../header';
-import { SimpleGrid, Heading, Text, Button } from '@chakra-ui/react';
+import { SimpleGrid, Heading, Button } from '@chakra-ui/react';
 import { FaLinkedin } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 
