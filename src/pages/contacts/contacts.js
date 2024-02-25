@@ -1,7 +1,7 @@
 import React from 'react';
 import NavBar from '../header';
 import { SimpleGrid, Heading, Text, Button } from '@chakra-ui/react';
-import { FaLinkedin, FaTwitter } from 'react-icons/fa';
+import { FaLinkedin } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 
 const contacts = () => {
@@ -22,7 +22,7 @@ const contacts = () => {
 
       <br />
 
-      <Text fontSize = 'lg' fontFamily = 'monospace'>Below, you can contact me via Linkedin, Twitter, or my business email.</Text>
+      <Text fontSize = 'lg' fontFamily = 'monospace'>Below, you can contact me via Linkedin or my email.</Text>
 
       <br />
 
